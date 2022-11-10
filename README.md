@@ -4,7 +4,7 @@ for cell-wide identification of protein complexes that performs nearly all
 biological processes and cellular activities. While computational tools based 
 on traditional machine learning is widely applied to analyze protein complexes, 
 it remains unclear if it is the most suitable choice for analyzing CF/MS 
-dataset. Here, we introduce Deep-iCE, a R/Bioconductor package that employs deep 
+dataset. Here, we introduce Deep-iCE, a R package that employs deep 
 learning approaches for automated scoring of co-fractionation mass spectrometry 
 (CF-MS) and sophisticated clustering procedure for network inference of 
 underlying complexes. 
@@ -18,7 +18,7 @@ To install the development version in `R`, run:
 if(!requireNamespace("devtools", quietly = TRUE)) {
   install.packages("devtools") 
 }
-devtools::install_github("mrbakhsh/Deep-iCE")
+devtools::install_github("mrbakhsh/DeepiCE")
 ```
 
 ## Required Software
