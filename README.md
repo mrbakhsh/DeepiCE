@@ -1,4 +1,4 @@
-# Inference of Interactome and Underying Protein Complexes from Co-fractionation MS-Data via Deep Learning
+# Deep-iCE: A Deep Learning-Based Framework for Interactome Prediction from Co-elution Profile
 Co-fractionation mass spectrometry (CF-MS) has emerged as a powerful approach 
 for cell-wide identification of protein complexes that performs nearly all
 biological processes and cellular activities. While computational tools based 
