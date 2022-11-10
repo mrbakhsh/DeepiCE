@@ -4,9 +4,8 @@ for cell-wide identification of protein complexes that performs nearly all
 biological processes and cellular activities. While computational tools based 
 on traditional machine learning is widely applied to analyze protein complexes, 
 it remains unclear if it is the most suitable choice for analyzing CF/MS 
-dataset. Here, we introduce Deep-iCE, a R package that employs deep 
-learning approaches for automated scoring of co-fractionation mass spectrometry 
-(CF-MS) and sophisticated clustering procedure for network inference of 
+dataset. Here, we introduce Deep-iCE that employs deep 
+learning approaches for automated scoring of CF/MS data and sophisticated clustering procedure for network inference of 
 underlying complexes. 
 
 
